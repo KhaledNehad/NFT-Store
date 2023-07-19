@@ -2,7 +2,7 @@
 
 ## Description
 
-React Native App for NFT Store
+A very simple React Native App for NFT Store
 
 ## Installation
 
