@@ -33,6 +33,7 @@ export default function App() {
         <Stack.Screen name='Home' component={Home} />
         <Stack.Screen name='NFT-details' component={NFTDetails} />
       </Stack.Navigator>
+      <StatusBar style='light' />
     </NavigationContainer>
   );
 }
